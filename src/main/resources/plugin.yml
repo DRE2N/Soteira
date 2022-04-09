@@ -1,0 +1,10 @@
+name: Soteira
+version: '${project.version}'
+main: de.erethon.soteira.Soteira
+api-version: 1.18
+authors: [Fyreum]
+commands:
+  soteira:
+    aliases:
+      - so
+    description: Main command

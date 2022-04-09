@@ -1,0 +1,11 @@
+# Internal config version - DO NOT CHANGE.
+configVersion: 1
+
+# Plugin language for messages and commands.
+language: german
+
+# The default amount of entries in the database to be stored and calculated with.
+# For further explanation take a look at:
+# https://github.com/OpenHFT/Chronicle-Map/blob/ea/docs/CM_Tutorial.adoc#configure-entries
+defaultDatabaseEntriesAmount: 50000
+
